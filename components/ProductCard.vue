@@ -1,4 +1,3 @@
-
 <template>
     <div class="card text-center">
         <img :src="product.image" alt="Картинка продукта" class="trumb">

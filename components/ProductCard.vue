@@ -15,6 +15,7 @@ const { product } = defineProps(['product'])
 <style scoped>
 .trumb {
     max-height: 120px;
+    min-height: 120px;
     max-width: 70%;
     margin: 0 auto;
 }

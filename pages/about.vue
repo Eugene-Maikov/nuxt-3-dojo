@@ -12,7 +12,7 @@
 </template>
 
 <script setup>
-const {data} = await useFetch('/api/hello')
+const {data} = await useFetch('/api/currency/GBP')
 </script>
 
 <style scoped>

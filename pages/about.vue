@@ -8,10 +8,11 @@
       Odio voluptates cumque animi ipsa, dicta beatae molestias
       est consequatur accusantium tempore.</p>
   </div>
+  <div>{{ data }}</div>
 </template>
 
 <script setup>
-
+const {data} = await useFetch('/api/hello')
 </script>
 
 <style scoped>

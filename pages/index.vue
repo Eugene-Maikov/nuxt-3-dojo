@@ -7,6 +7,9 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
       Odio voluptates cumque animi ipsa, dicta beatae molestias
       est consequatur accusantium tempore.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      Odio voluptates cumque animi ipsa, dicta beatae molestias
+      est consequatur accusantium tempore.</p>
   </div>
 </template>
 
